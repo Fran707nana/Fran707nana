@@ -50,4 +50,40 @@ June 8 – August 29, 2026
 
 ---
 
->  "My firewall and I have something in common: we both have trust issues."
+**Project:** TKH-Final-Capstone
+
+Built a secure and automated cloud architecture using AWS and Terraform. The project included the creation of a custom VPC, public subnet, Internet Gateway, Route Tables, Security Groups, and an EC2 instance hosting a web server.
+
+Implemented a DevSecOps workflow using GitHub Actions and tfsec to automatically scan Terraform code for security issues whenever code was pushed to the repository.
+
+Key accomplishments included:
+
+- Provisioned AWS infrastructure using Terraform
+- Created a custom VPC and public subnet
+- Configured Internet Gateway and Route Tables
+- Implemented Security Groups with restricted SSH access
+- Deployed an Apache web server on Amazon EC2
+- Automated security validation using GitHub Actions
+- Successfully deployed and verified a live AWS web server
+- Performed infrastructure teardown using Terraform Destroy to eliminate cloud costs
+
+### Technologies Used
+
+- AWS
+- Terraform
+- GitHub
+- GitHub Actions
+- tfsec
+- Amazon EC2
+- Amazon VPC
+- Apache HTTP Server
+- Linux
+
+### Project Outcome
+
+Successfully designed, secured, deployed, verified, and destroyed a complete cloud environment using Infrastructure as Code and DevSecOps practices. Demonstrated the ability to automate infrastructure deployment, implement cloud security controls, and integrate security validation into the development workflow.
+
+### Repository
+https://github.com/Fran707nana/TKH-Final-Capstone
+---
+"My firewall and I have something in common: we both have trust issues."
