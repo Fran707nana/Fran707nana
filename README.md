@@ -84,6 +84,8 @@ Key accomplishments included:
 Successfully designed, secured, deployed, verified, and destroyed a complete cloud environment using Infrastructure as Code and DevSecOps practices. Demonstrated the ability to automate infrastructure deployment, implement cloud security controls, and integrate security validation into the development workflow.
 
 ### Repository
-https://github.com/Fran707nana/TKH-Final-Capstone
+🔗 [TKH Final Capstone](https://github.com/Fran707nana/TKH-Final-Capstone)
+
 ---
+
 "My firewall and I have something in common: we both have trust issues."
